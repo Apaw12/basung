@@ -28,10 +28,10 @@
 <script>
     // Data kamus
     var dictionary = [
-        { word_en: "apple", word_id: "apel", definition: "a round fruit with red or green skin and a whitish interior" },
-        { word_en: "banana", word_id: "pisang", definition: "a long curved fruit which grows in clusters and has soft pulpy flesh and yellow skin when ripe" },
-        { word_en: "cat", word_id: "kucing", definition: "a small domesticated carnivorous mammal with soft fur" },
-        { word_en: "dog", word_id: "anjing", definition: "a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, and a barking, howling, or whining voice" }
+        { word_en: "apple", word_id: "apel" },
+        { word_en: "banana", word_id: "pisang" },
+        { word_en: "cat", word_id: "kucing", },
+        { word_en: "dog", word_id: "anjing", }
         // tambahkan kata-kata lain di sini
     ];
 
