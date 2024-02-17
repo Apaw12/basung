@@ -51,7 +51,6 @@
             if (dictionary[i].word_en.toLowerCase().includes(input) || dictionary[i].word_id.toLowerCase().includes(input)) {
                 resultDiv.innerHTML += "<b>English:</b> " + dictionary[i].word_en + "<br>" +
                                        "<b>Indonesian:</b> " + dictionary[i].word_id + "<br>" +
-                                       "<b>Definition:</b> " + dictionary[i].definition + "<br><br>";
                 found = true;
             }
         }
