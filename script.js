@@ -514,7 +514,6 @@ function populateDictionary() {
         ul.appendChild(li);
     });
 }
-
 // Call the function to populate the dictionary list initially
 populateDictionary();
 
