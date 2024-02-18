@@ -1,8 +1,6 @@
 // Dictionary data
 var dictionary = [
-// Dictionary data
-var dictionary = [
-{ english: "Abstraction", indonesia: "Abstraksi" },
+    { english: "Abstraction", indonesia: "Abstraksi" },
     { english: "Access Control", indonesia: "Kontrol Akses" },
     { english: "Activation Function", indonesia: "Fungsi Aktivasi" },
     { english: "Active Learning", indonesia: "Pembelajaran Aktif" },
