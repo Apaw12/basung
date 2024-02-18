@@ -510,7 +510,7 @@ function populateDictionary() {
     // Loop through the dictionary data and create list items
     dictionary.forEach(function(item) {
         var li = document.createElement('li');
-        li.innerHTML = '<strong>' + item.english + '</strong> - ' + item.indonesian;
+        li.innerHTML = '<strong>' + item.english + '</strong> - ' + item.indonesia;
         ul.appendChild(li);
     });
 }
